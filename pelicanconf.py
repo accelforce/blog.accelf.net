@@ -20,14 +20,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('小田急don', 'https://odakyu.app/about'),
+         ('Team AccelForce', 'https://accelf.net/'),
+         ('My Profile', 'https://me.accelf.net/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('@ars42525@odakyu.app', 'https://odakyu.app/@ars42525'),
+          ('@ars42525@itabashi.0j0.jp', 'https://n-sr.org/@ars42525'),)
 
 DEFAULT_PAGINATION = 10
 
