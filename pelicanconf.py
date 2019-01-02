@@ -8,6 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+THEME = 'theme/flex'
+
 TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'Japanese'
