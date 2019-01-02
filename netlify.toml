@@ -1,0 +1,4 @@
+[build]
+  base    = "."
+  publish = "output"
+  command = "mkdir output && pelican content -s publishconf.py"
